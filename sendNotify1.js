@@ -211,7 +211,7 @@ async function sendNotify(
     text,
     desp,
     params = {},
-    author = '\n\n青龙',
+    author = '\n\n',
 ) {
     //提供6种通知
     if (process.env.pushDesc){
