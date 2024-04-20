@@ -94,7 +94,6 @@ let PUSH_PLUS_USER = '';
 // =======================================wxpush设置区域=======================================
 //官方文档：https://wxpusher.zjiecode.com/
 //WX_PUSH_TOKEN：微信扫码登录后一对一推送
-//let WX_PUSH_TOKEN = 'AT_CxQKk78l0I00bqX1jWpOo4KsAtEspXEd';
 let WX_PUSH_TOKEN = process.env.wxpusherToken
 
 
