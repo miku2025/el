@@ -1,3 +1,7 @@
+/**
+ * cron: 11 8,13,20 * * *
+ * 只添加这个定时就可以了
+ */
 const { exec } = require('child_process');
 
 function runScript(scriptPath) {
